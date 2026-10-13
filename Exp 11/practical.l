@@ -1,3 +1,4 @@
+//valid datatypes(int,float,char,double)
 %{
 #include "y.tab.h"
 #include <stdlib.h>
